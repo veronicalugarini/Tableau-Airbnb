@@ -2,7 +2,7 @@
 
 ![Airbnb-Logo](https://user-images.githubusercontent.com/64870434/91869743-9e8e0a80-ec4c-11ea-8577-a3732d4e3a40.png)
 
-Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations for tourism experiences, arrangement for lodging or primarily homestays.
+Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations for tourism experiences, arrangement for lodging or primarily homestays between January 2015 and February 2020.
 
 The analyzed data are available in the official Airbnb site (http://insideairbnb.com/get-the-data.html). The data has been analyzed, cleansed and aggregated. 
 
